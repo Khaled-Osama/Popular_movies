@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">popular movies</string>
+
+    <string name="api_key">0f7070c7d96558edcb399c197671d0d2</string>
+
+    <string name="movie_type_shared_prefrence">Movie shared prefrence</string>
+
+    <string name="movie_prefrence_key">Movie prefrence key</string>
+
+</resources>
